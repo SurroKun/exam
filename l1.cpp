@@ -1,9 +1,8 @@
 #include "l1.h"
 #include "ui_l1.h"
 #include <QTreeWidgetItem>
-#include <string>
+#include <string.h>
 #include <set>
-
 using namespace std;
 class Technology;
 
